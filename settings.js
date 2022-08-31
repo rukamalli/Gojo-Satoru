@@ -19,11 +19,11 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.owner = ['94702287970']
+global.premium = ['94702287970']
+global.ownernomer = '94702287970'
+global.ownername = '🐦KING RUKA'
+global.botname = 'KIG RUKKA BOT '
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
@@ -40,7 +40,7 @@ global.mess = {
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    public: 'Features Used Only For public Chat!',
     bot: 'This Feature Is Only For Bot',
     wait: 'Wait A minute...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
